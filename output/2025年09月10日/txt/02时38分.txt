@@ -1,0 +1,23 @@
+github
+1. emcie-co / parlant [URL:https://github.com/emcie-co/parlant]
+2. Vector-Wangel / XLeRobot [URL:https://github.com/Vector-Wangel/XLeRobot]
+3. x1xhlol / system-prompts-and-models-of-ai-tools [URL:https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools]
+4. Stirling-Tools / Stirling-PDF [URL:https://github.com/Stirling-Tools/Stirling-PDF]
+5. vercel / examples [URL:https://github.com/vercel/examples]
+6. Cinnamon / kotaemon [URL:https://github.com/Cinnamon/kotaemon]
+7. pathwaycom / llm-app [URL:https://github.com/pathwaycom/llm-app]
+8. hiroi-sora / Umi-OCR [URL:https://github.com/hiroi-sora/Umi-OCR]
+9. 11cafe / jaaz [URL:https://github.com/11cafe/jaaz]
+10. pathwaycom / pathway [URL:https://github.com/pathwaycom/pathway]
+11. ClemensElflein / OpenMower [URL:https://github.com/ClemensElflein/OpenMower]
+12. juspay / hyperswitch [URL:https://github.com/juspay/hyperswitch]
+13. Eventual-Inc / Daft [URL:https://github.com/Eventual-Inc/Daft]
+14. immich-app / immich [URL:https://github.com/immich-app/immich]
+15. HKUDS / AutoAgent [URL:https://github.com/HKUDS/AutoAgent]
+
+==== 以下ID请求失败 ====
+bilibili-hot-search
+tieba
+weibo
+douyin
+zhihu
